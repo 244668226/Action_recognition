@@ -17,6 +17,11 @@
 ![image](https://user-images.githubusercontent.com/59698348/131788136-0b2c6cff-6e7e-4786-bca4-60dc7eb90649.png)
 ### 4. 将下图右键,设置启动项
 ![image](https://user-images.githubusercontent.com/59698348/131789404-0afe47ad-f4e9-46ce-b64e-1f436f872096.png)
+
+注：若要生成dll文件,参考下图进行生成.
+
+![image](https://user-images.githubusercontent.com/59698348/131826449-276710a0-ff71-43d7-9a79-6fba7cfcb845.png)
+
 ### 5. 运行下图各个不同demo即可进行预测
 ![image](https://user-images.githubusercontent.com/59698348/131789468-57722463-63a5-46bb-856c-e1f1aaac2fd4.png)
 
