@@ -20,4 +20,7 @@
 ### 5. 运行下图各个不同demo即可进行预测
 ![image](https://user-images.githubusercontent.com/59698348/131789468-57722463-63a5-46bb-856c-e1f1aaac2fd4.png)
 
+#### 6.下述为编译好的代码
+链接：https://pan.baidu.com/s/1CT6XqgStloPaeUfQEju8BA 
+提取码：2222 
 
